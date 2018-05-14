@@ -21,6 +21,7 @@ def find_the_cheese(arr)
       return x
     end
     return nil
+  end
 end
 
 puts summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
